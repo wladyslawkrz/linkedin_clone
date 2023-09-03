@@ -1,0 +1,7 @@
+{
+  "name": "linked-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
